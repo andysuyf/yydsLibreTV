@@ -39,10 +39,6 @@ const API_SITES = {
         api: 'https://dbzy.tv/api.php/provide/vod',
         name: '豆瓣资源',
     },
-    zuid: {
-        api: 'https://api.zuidapi.com/api.php/provide/vod',
-        name: '最大资源'
-    },
     ikun: {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: '爱酷资源'
