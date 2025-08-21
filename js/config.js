@@ -48,7 +48,7 @@ const API_SITES = {
         name: '爱酷资源'
     },
     maotai: {
-        api: 'https://maotaijiexi.com/api.php/provide/vod',
+        api: 'https://mtjiexi.cc/api.php/provide/vod',
         name: '茅台资源'
     },
     testSource: {
